@@ -1,6 +1,6 @@
 # Configuration Manual for Sentiment Analysis and Classification Modelling of Bath Bombs Globally Using Data Mining Techniques
 The steps are as follows:
-1. Have RStudio installed
+1. Install RStudio on a laptop or computer
 2. Download the "Bath Bomb Sentiment Analysis and Classification.R" R script and open in   RStudio
 3. To run each line of code press CTRL and ENTER together
 4. Begin each process outlined in the comments by installing the relevant packages
