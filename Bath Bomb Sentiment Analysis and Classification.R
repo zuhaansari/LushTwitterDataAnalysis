@@ -13,10 +13,10 @@ library (rtweet)
 
 twitter_token <- create_token(
   app = "lush get_tweets script",
-  consumer_key = "8YwJxvEx0Ddl4zNjqkG2bdH7l",
-  consumer_secret = "ue5TrgX7WBrMSXlieODGgQV86F9vSmuy8Jm0GWmEsGJ9FcWWdM",
-  access_token = '1059567061880455168-PBGpLflNajjnJUv485BVz2pJQaQps9',
-  access_secret = 'bzWidmK0CLdodtzLXv07vD2L4PEJlik3Aam9zLGOREhLP',
+  consumer_key = "",
+  consumer_secret = "",
+  access_token = '',
+  access_secret = '',
   set_renv = FALSE)
 
 # FOR TESTING PURPOSES : TIMELINES OF LUSH ACCOUNTS IN UK AND NORTH AMERICA
